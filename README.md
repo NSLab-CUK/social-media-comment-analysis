@@ -123,16 +123,12 @@ This model is used as the final English sentiment classifier for topic-level sen
 
 The project was developed and tested under the following environment:
 
-### Basic environment
-- **Python**: 3.10.18
-- **OS**: Darwin 25.2.0
 - **Machine**: arm64
 - **Processor**: arm
 
-### Python executable
-- `/opt/anaconda3/envs/nlp-en/bin/python`
 
 ### Key package versions
+- **Python**: 3.10.18
 - **numpy**: 1.26.4
 - **pandas**: 2.3.3
 - **scikit-learn**: 1.7.2
@@ -142,12 +138,5 @@ The project was developed and tested under the following environment:
 - **seaborn**: 0.13.2
 - **gensim**: 4.3.3
 
----
+--
 
-## 8. Recommended Installation
-
-It is recommended to create a dedicated conda environment first.
-
-```bash
-conda create -n ai_discourse python=3.10
-conda activate ai_discourse
