@@ -23,7 +23,7 @@ The study uses:
 
 and combines:
 
-- **Dynamic Topic Model (DTM)**
+- **DTM**
 - **LDA**
 - **BERTopic**
 - **Sentiment classification models**
@@ -137,6 +137,4 @@ The project was developed and tested under the following environment:
 - **matplotlib**: 3.10.7
 - **seaborn**: 0.13.2
 - **gensim**: 4.3.3
-
---
 
