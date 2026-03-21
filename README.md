@@ -123,10 +123,6 @@ This model is used as the final English sentiment classifier for topic-level sen
 
 The project was developed and tested under the following environment:
 
-- **Machine**: arm64
-- **Processor**: arm
-
-
 ### Key package versions
 - **Python**: 3.10.18
 - **numpy**: 1.26.4
