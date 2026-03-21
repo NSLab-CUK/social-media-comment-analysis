@@ -121,9 +121,8 @@ This model is used as the final English sentiment classifier for topic-level sen
 
 ## 7. Environment Requirements
 
-The project was developed and tested under the following environment:
+The main package versions used in this project are listed below:
 
-### Key package versions
 - **Python**: 3.10.18
 - **numpy**: 1.26.4
 - **pandas**: 2.3.3
